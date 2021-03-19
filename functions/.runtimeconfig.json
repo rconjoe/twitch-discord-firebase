@@ -1,0 +1,10 @@
+{
+  "twitch": {
+    "clientsecret": "qf2wtd17knapotj4rff2ummv7lrmfe",
+    "client_id": "8dr1mhpi7t8gf0vhjgjjv6d0lhn152"
+  },
+  "discord": {
+    "clientid": "821241880795676702",
+    "clientsecret": "t6tGun8ZBY0jOq4ps_zzZOCOWngUCas8"
+  }
+}
